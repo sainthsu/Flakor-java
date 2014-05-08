@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="WrongCall" severity="ignore">
+        <ignore path="src/com/flakor/game/core/Engine.java" />
+        <ignore path="src/com/flakor/game/core/GameView.java" />
+        <ignore path="src/com/flakor/game/core/entity/Entity.java" />
+        <ignore path="src/com/flakor/game/core/scene/Scene.java" />
+        <ignore path="src/com/flakor/game/entity/Entity.java" />
+        <ignore path="src/com/flakor/game/system/graphics/DrawHandlerList.java" />
+    </issue>
+</lint>
